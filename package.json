@@ -1,0 +1,23 @@
+{
+  "name": "responsive-ui-bootstrap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tochine/responsive-ui-with-bootstrap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tochine/responsive-ui-with-bootstrap/issues"
+  },
+  "homepage": "https://github.com/Tochine/responsive-ui-with-bootstrap#readme"
+}
